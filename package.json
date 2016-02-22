@@ -23,9 +23,10 @@
   },
   "homepage": "https://github.com/mWater/ls-cache",
   "devDependencies": {
+    "browserify": "^13.0.0",
+    "chai": "~1.9.0",
     "mocha": "~1.17.0",
     "requirejs": "~2.1.10",
-    "testem": "~0.6.6",
-    "chai": "~1.9.0"
+    "testem": "~0.6.6"
   }
 }
